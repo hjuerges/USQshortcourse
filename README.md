@@ -17,6 +17,7 @@ Topics:
 7.	Using R effectively: R projects, R markdown & Co.
 
 Additional topics (depending on time and interest):
+
 8.	The counterfactual causal model
 9.	Directed Acyclic Graphs: why and why not?
 10.	Identification with observed covariates: inverse probability weighting, outcome regression and double robust methods
